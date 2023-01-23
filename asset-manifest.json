@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4f12c11c.css",
+    "main.js": "/static/js/main.c3f8bd75.js",
+    "static/media/img-background.png": "/static/media/img-background.28e893c90186c1895733.png",
+    "static/media/section-img1.png": "/static/media/section-img1.ca32a39cfec0edd88be7.png",
+    "static/media/bg-img4.png": "/static/media/bg-img4.05d9d5d99435a1c3b5a8.png",
+    "static/media/section-img2.png": "/static/media/section-img2.509a248e86a640f0429f.png",
+    "static/media/section-img3.png": "/static/media/section-img3.4043d2444495dbcf7972.png",
+    "static/media/section-img4.png": "/static/media/section-img4.0582d4abe1026c933c94.png",
+    "static/media/bg-img1.png": "/static/media/bg-img1.6b982ad61292af614039.png",
+    "static/media/bg-img2.png": "/static/media/bg-img2.fd2bfdeca808a702a092.png",
+    "static/media/ibm-plex-sans-v14-latin-600.woff": "/static/media/ibm-plex-sans-v14-latin-600.eaf750b1a0f4a2cdadd7.woff",
+    "static/media/ibm-plex-sans-v14-latin-500.woff": "/static/media/ibm-plex-sans-v14-latin-500.8b83958992d221a833fd.woff",
+    "static/media/ibm-plex-sans-v14-latin-700.woff": "/static/media/ibm-plex-sans-v14-latin-700.66539165a16bc1389fce.woff",
+    "static/media/ibm-plex-sans-v14-latin-regular.woff": "/static/media/ibm-plex-sans-v14-latin-regular.31490b338d5ed4da4d8a.woff",
+    "static/media/ibm-plex-sans-v14-latin-600.woff2": "/static/media/ibm-plex-sans-v14-latin-600.343ea5304f9ab1a7567b.woff2",
+    "static/media/ibm-plex-sans-v14-latin-500.woff2": "/static/media/ibm-plex-sans-v14-latin-500.51f75d450b3474fa5f0e.woff2",
+    "static/media/ibm-plex-sans-v14-latin-700.woff2": "/static/media/ibm-plex-sans-v14-latin-700.db8b76340f5e9fb22749.woff2",
+    "static/media/ibm-plex-sans-v14-latin-regular.woff2": "/static/media/ibm-plex-sans-v14-latin-regular.4d32b6c22a800bdf8260.woff2",
+    "static/media/syne-v15-latin-600.woff": "/static/media/syne-v15-latin-600.a9b292b2b9b00ecac66d.woff",
+    "static/media/syne-v15-latin-700.woff": "/static/media/syne-v15-latin-700.13385c700bbeef1c883d.woff",
+    "static/media/syne-v15-latin-500.woff": "/static/media/syne-v15-latin-500.be584659282c8e66927f.woff",
+    "static/media/syne-v15-latin-800.woff": "/static/media/syne-v15-latin-800.c69855b70a5edb06b613.woff",
+    "static/media/syne-v15-latin-regular.woff": "/static/media/syne-v15-latin-regular.f99af093fed50a859600.woff",
+    "static/media/syne-v15-latin-600.woff2": "/static/media/syne-v15-latin-600.3314a89b011becbcbcde.woff2",
+    "static/media/syne-v15-latin-700.woff2": "/static/media/syne-v15-latin-700.ec46f0831a78da51cf96.woff2",
+    "static/media/syne-v15-latin-500.woff2": "/static/media/syne-v15-latin-500.d265e2216dedf2a26dca.woff2",
+    "static/media/syne-v15-latin-800.woff2": "/static/media/syne-v15-latin-800.0b4ce64f2cfecca60673.woff2",
+    "static/media/syne-v15-latin-regular.woff2": "/static/media/syne-v15-latin-regular.cddef3948df854a2de75.woff2",
+    "static/media/korzinka.svg": "/static/media/korzinka.eb5485af5404f98d15e71cc21fe68943.svg",
+    "static/media/user.svg": "/static/media/user.d44af33b62b055c6c6de163b951b825f.svg",
+    "static/media/search.svg": "/static/media/search.ccd5063582ab47baf5161cb5ab2ec251.svg",
+    "static/media/del.svg": "/static/media/del.d82cad81c986c0bb324222ea76043959.svg",
+    "index.html": "/index.html",
+    "main.4f12c11c.css.map": "/static/css/main.4f12c11c.css.map",
+    "main.c3f8bd75.js.map": "/static/js/main.c3f8bd75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f12c11c.css",
+    "static/js/main.c3f8bd75.js"
+  ]
+}
